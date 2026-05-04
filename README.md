@@ -141,7 +141,7 @@ I have experience supporting teachers with educational technology and have been 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=julsanchezc&theme=tokyonight&show_icons=true)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=julsanchezc&theme=tokyonight)
 
 ---
 
